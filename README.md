@@ -8,3 +8,14 @@ Given anonymized and transformed transaction data, the predictor determines whet
 The goal is to showcase how machine learning models can **analyze obscure numerical patterns** and **predict fraud** without needing access to sensitive user information.
 
 ---
+
+
+## How to Run
+
+1. Clone this repository.
+
+2. Download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud as 'creditcard.csv' and drop it into the saved folder.
+
+3. Install the required libraries: 'pip install matplotlib' as an example. Note: it will prompt you to do so when attempting to run the app.
+
+4. Open terminal and run 'python3 app.py' and use the link.
