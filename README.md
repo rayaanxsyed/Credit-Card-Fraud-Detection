@@ -16,6 +16,6 @@ The goal is to showcase how machine learning models can analyze obscure numerica
 
 2. Download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud as 'creditcard.csv' and drop it into the saved folder.
 
-3. Install the required libraries: 'pip install matplotlib' as an example. Note: it will prompt you to do so when attempting to run the app.
+3. Install the required libraries: ```pip install matplotlib``` as an example. Note: it will prompt you to do so when attempting to run the app.
 
-4. Open terminal and run 'python3 app.py' and use the link.
+4. Open terminal and run ```python3 app.py``` and use the link.
